@@ -1,0 +1,18 @@
+aside {
+  background-color: #16a085;
+  border: 10px solid #bff6eb;
+  color: #bff6eb;
+  margin: 0 auto;
+  padding: 15px;
+  width: 500px;
+}
+
+aside h2 {
+  font-weight: bold;
+  font-size: 3em;
+}
+
+aside ul {
+  list-style: square;
+  font-size: 2em;
+}
